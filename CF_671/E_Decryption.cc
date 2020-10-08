@@ -1,6 +1,8 @@
-/* @Problem   D. Decrytion
- * @Author    Kvar_ispw17
- * @Date      2020.10.8
+/**
+ * @contest	Codeforces Round #671(Div.2)
+ * @problem E. Decryption
+ * @Author	Kvar_ispw17
+ * @Date	2020.10.8
  *
  */
 
